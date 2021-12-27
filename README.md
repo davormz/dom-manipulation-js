@@ -1,5 +1,10 @@
 # Snowpack Tailwind
 
+## Project goal.
+This project is to practice some DOM manipulation using JavaScript and styling with the Snowpack Tailwind.
+
+
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 Ready-to-go template to create awesome websites using Tailwind on top of Snowpack and autopublish to GitHub pages using GitHub Actions.
